@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_primary_color">#AFB42B</color>
+    <color name="light_primary_color">#F0F4C3</color>
+    <color name="primary_color">#CDDC39</color>
+    <color name="text_icons">#212121</color>
+    <color name="accent_color">#9E9E9E</color>
+    <color name="secondary_text">#757575</color>
+    <color name="divider_color">#BDBDBD</color>
+
+    <!--Colors of the Rainbow -->
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF7F00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="indigo">#4B0082</color>
+    <color name="violet">#9400D3</color>
+</resources>
